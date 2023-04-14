@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @krzychuszala
-- 👀 I’m interested in c and c++. 
-- 🌱 I’m currently learning a little of assembly language. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
